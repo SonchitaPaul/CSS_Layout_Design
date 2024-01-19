@@ -1,0 +1,123 @@
+.logo{
+    background-color: hsl(337, 76%, 83%);
+    height: 100px;
+    text-align: center;
+}
+.logo img{
+    width: 200px;
+    height: 100px;   
+}
+.menu{
+    background-color: rgb(153, 245, 248);
+    height: 100px;
+    text-align: center;
+}
+.menu ul{
+    list-style: none;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    display: block;
+    text-decoration: none;
+    font-size: 25px;
+    background-color: rgb(1, 1, 43);
+    color: white;
+    padding: 10px;
+    /* margin: 10px; */
+    margin-top: 20px;
+}
+.banner{
+    height: 500px;
+    background-image: url(../image/banner.jpg);
+    background-size: cover;
+}
+.services{
+    height: 300px;
+    text-align: center;
+}
+.first-column{
+    background-color: hsl(337, 76%, 83%);
+    height: 300px;
+    width: 25%;
+    float: left;
+}
+.first-column img {
+    width: 200px;
+    height: 150px;
+}
+.second-column{
+    background-color: rgb(153, 245, 248);
+    height: 300px;
+    width: 25%;
+    float: left;
+}
+.second-column img{
+    width: 200px;
+    height: 150px;
+}
+.third-column{
+    background-color: hsl(337, 76%, 83%);
+    height: 300px;
+    width: 25%;
+    float: left;
+}
+.third-column img{
+    width: 200px;
+    height: 150px;
+}
+.four-column{
+    background-color: rgb(153, 245, 248);
+    height: 300px;
+    width: 25%;
+    float: left;
+}
+.four-column img{
+    width: 200px;
+    height: 150px;
+}
+.team{
+    background-color: #b5b5f7;
+    height: 300px;
+    text-align: center;
+}
+.people1{
+    background-color: rgb(153, 245, 248);
+    height: 300px;
+    width: 33%;
+    float: left;
+}
+.people1 img{
+    width: 200px;
+    height: 150px;
+}
+.people2{
+    background-color: hsl(337, 76%, 83%);
+    height: 300px;
+    width: 33%;
+    float: left;
+}
+.people2 img{
+    width: 200px;
+    height: 150px;
+}
+.people3{
+    background-color: rgb(153, 245, 248);
+    height: 300px;
+    width: 33%;
+    float: left;
+}
+.people3 img{
+    width: 200px;
+    height: 150px;
+}
+.footer{
+    background-color: hsl(337, 76%, 83%);
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    height: 100px;
+    padding-top: 50px;
+}
+
